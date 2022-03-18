@@ -15,3 +15,5 @@ async function ieladetChataZinas()
 
     zinas.innerHTML = dati;
 }
+
+setInterval( ieladetChataZinas, 1000 )
