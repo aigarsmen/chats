@@ -1,4 +1,5 @@
 //console.log(2)
+const API = "https://chat2022.aigarsmendiks.repl.co/"
 let zina = document.querySelector('.manaZina');//.value//piekļūst laukumam, value uzzina tieši kas rakstits
 let zinas = document.querySelector('.chataZinas');
 function sutitZinu()
